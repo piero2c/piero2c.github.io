@@ -1,0 +1,12 @@
+/* Layout colors and positioning */
+body { background-color: aliceblue; }
+.logo-img { margin-bottom: 20px; }
+
+/* Link color */
+a { transition-duration: .2s }
+a:hover { color: rgb(94, 94, 255); text-decoration: none; }
+
+.article-content a { font-weight: bold; color: rgb(94, 94, 255); border: none;}
+.article-content a:hover { text-decoration: underline; border: none; color: rgb(94, 94, 255);}
+
+
