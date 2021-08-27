@@ -11,8 +11,8 @@ a:hover { color: rgb(94, 94, 255); text-decoration: none; }
 .article-content a { font-weight: bold; color: rgb(94, 94, 255); border: none;}
 .article-content a:hover { text-decoration: underline; border: none; color: rgb(94, 94, 255);}
 
-.logo a { white-space: pre-wrap; display: inline; box-shadow: -0px 10px 0px transparent; padding: 5px 0px 5px 0px; transition-duration: .3s; }
-.logo a:hover { background: #222; text-shadow: none; color: aliceblue; box-shadow: -10px 0px 0 #222, 0px 0 1px #222;}
+.logo a { white-space: pre-wrap; display: inline; box-shadow: -0px 10px 0px aliceblue; padding: 5px 0px 5px 0px; transition-duration: .3s; }
+.logo a:hover { filter: invert(100%); background: aliceblue; text-shadow: none; color: #222; box-shadow: -10px 0px 0 aliceblue, 0px 0 1px aliceblue;}
 
 /* nav ul li a {
     white-space: pre-wrap;
