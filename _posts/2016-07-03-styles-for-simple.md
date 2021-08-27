@@ -11,6 +11,7 @@ First of all, let's have a glance at the basic styles: [link](http://github.com/
 
 
 $$Y \sim N(\mu, \sigma^2)$$
+
 $$p(y) = \frac{1}{\sqrt{2\pi}\sigma}\exp \left ( - \frac{1}{2}\left (  \frac{y - \mu}{\sigma} \right)^2 \right )$$
 
 <!--description-->
