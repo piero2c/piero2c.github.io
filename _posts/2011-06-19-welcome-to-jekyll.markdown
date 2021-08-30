@@ -5,7 +5,10 @@ date: 2016-06-19 21:06:26 +0800
 categories: Machine-Learning NLP pt-br
 ---
 
-$$\sum_{i=1}^\infty i^2 = \frac{\pi^2}{6}$$
+$$Y \sim N(\mu, \sigma^2)$$
+
+$$p(y) = \frac{1}{\sqrt{2\pi}\sigma}\exp \left ( - \frac{1}{2}\left (  \frac{y - \mu}{\sigma} \right)^2 \right )$$
+
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
